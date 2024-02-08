@@ -1,0 +1,25 @@
+{
+    "Atoms":["H","He","Li","Be","B","C",
+             "N","O","F","Ne","Na","Mg",
+             "Al","Si","P","S","Cl","Ar",
+             "K","Ca","Se","Ti","V","Cr",
+             "Mn","Fe","Co","Ni","Cu","Zn",
+             "Ga","Ge","As","Se","Br","Kr",
+             "Rb","Sr","Y","Zr","Nb","Mo",
+             "Tc","Ru","Rh","Pd","Ag","Cd",
+             "In","Sn","Sb","Te","I","Xe",
+             "Cs","Ba","La","Ce","Pr","Nd",
+             "Pm","Sm","Eu","Gd","Tb","Dy",
+             "Ho","Er","Tm","Yb","Lu","Hf",
+             "Ta","W","Re","Os","Ir","Pt",
+             "Au","Hg","Ti","Pb","Bi","Po",
+             "At","Rn"],
+    "atomic number":"1-86",
+    "Bonds":["SINGLE","DOUBLE","TRIPLE","AROMATIC"],
+    "example bond feature":[1,0,0,0],
+    "未考虑的情况":{
+        "1":"原子为全考虑",
+        "2":"手性未考虑",
+        "3":"CC双键异构未考虑"
+    }
+}
